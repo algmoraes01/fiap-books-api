@@ -261,7 +261,7 @@ Gravação de 3–8 minutos explicando:
 3. Funcionamento do JWT e rotas protegidas.  
 4. Qualquer diferencial implementado.
 
-🔗 `[Cole aqui o link do vídeo no YouTube]`
+🔗 [https://www.youtube.com/watch?v=7EAlzQByCTI](https://www.youtube.com/watch?v=7EAlzQByCTI)
 
 ---
 
