@@ -242,7 +242,7 @@ flowchart TD
 ## Deploy
 
 Link público da API:  
-👉 [https://fiap-books-api.onrender.com](https://fiap-books-api.onrender.com)
+👉 [https://web-production-17f9e.up.railway.app/](https://web-production-17f9e.up.railway.app/)
 
 ---
 
